@@ -1,4 +1,6 @@
-### Hello there 👋. I'm Afrida, living in Bangladesh 🇧🇩 . I do coding for living as well for fun :stuck_out_tongue_winking_eye:. Thanks for stopping by. 
+Hello there 👋. I'm **Afrida,** currently living in Bangladesh 🇧🇩 . I do coding for living as well for fun :stuck_out_tongue_winking_eye:. Thanks for stopping by. 
+<br/> 
+
 
 <p>
   <img width="200" alt="hello!" align="left" src="https://thumbs.gfycat.com/InfiniteConfusedBear-size_restricted.gif">
@@ -11,9 +13,7 @@
  - Planning to write technical articles soon ✍🏻
  
  - Prefer to collaborate on programs like R&D and System designs <img src="https://images.ctfassets.net/xvqp5pvs1vfv/6yg3E0UfV8f54PJWOQpTVn/502f67ad7b0d6bdc30cc58c4e3eafc78/feature-collaborate.svg" alt="colab icon" width="18">
- 
-  .....
-
+  
 <br/>
 
 ### 📫 Find me here: 

@@ -10,7 +10,6 @@ Hello there 👋. I'm **Afrida,** currently living in Bangladesh 🇧🇩 . I do
  
  - Learning <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js icon" width="20">  <img src="https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_1_flat-512.png" alt="devops icon" width="20">
   
- - Planning to write technical articles soon ✍🏻
  
  - Prefer to collaborate on programs like R&D and System designs <img src="https://images.ctfassets.net/xvqp5pvs1vfv/6yg3E0UfV8f54PJWOQpTVn/502f67ad7b0d6bdc30cc58c4e3eafc78/feature-collaborate.svg" alt="colab icon" width="18">
   

@@ -1,19 +1,12 @@
 Hello there 👋. I'm **Afrida,** currently living in Bangladesh 🇧🇩 . I do coding for living as well for fun :stuck_out_tongue_winking_eye:. Thanks for stopping by. 
 <br/> 
 
-
-<p>
-  <img width="200" alt="hello!" align="left" src="https://thumbs.gfycat.com/InfiniteConfusedBear-size_restricted.gif">
-</p>
-
- - Currently working on <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java icon" width="18"> <img src="https://frontbackend.com/storage/tutorials/thymeleaf/spring-boot-logo.png" alt="spring icon" width="18">
+ - Currently working on <img width="22" alt="image" src="https://github.com/user-attachments/assets/157ac26e-e292-440a-9e17-8b11dc456430"/> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring icon" width="16">
  
  - Learning <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js icon" width="20">  <img src="https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_1_flat-512.png" alt="devops icon" width="20">
   
- 
- - Prefer to collaborate on programs like R&D and System designs <img src="https://images.ctfassets.net/xvqp5pvs1vfv/6yg3E0UfV8f54PJWOQpTVn/502f67ad7b0d6bdc30cc58c4e3eafc78/feature-collaborate.svg" alt="colab icon" width="18">
-  
-<br/>
+
+ - Prefer to work on GenAI and LLM
 
 ### 📫 Find me here: 
 
@@ -21,6 +14,3 @@ Hello there 👋. I'm **Afrida,** currently living in Bangladesh 🇧🇩 . I do
  |---|---|---|
  
  
-<p align='center'>
-<img align='left' src="https://visitor-badge.glitch.me/badge?page_id=afrida67.visitor-badge">
-<p/>
